@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Mohamed Elkhayate
+
+#### Coding Machine
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ELKHAYATE)  
+Skills: PYTHON / REACT / JS / HTML / CSS / Context API / NEXT JS / SANITY / LINUX / GIT /
+
+A passionate Web Developer, having an experience of building web applications, who love problem solving, discovering and using new technologies to build multiple projects.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ELKHAYATE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-elkhayate-4535a91b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.elkhayate.tech)  
 
 
-**elkhayate/elkhayate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+

@@ -8,10 +8,7 @@
 
 Skills: PYTHON / REACT / JS / HTML / CSS / Context API / NEXT JS / SANITY / LINUX / GIT /
 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-elkhayate-4535a91b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.elkhayate.tech)  
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-elkhayate-4535a91b6/)  
 
 
 

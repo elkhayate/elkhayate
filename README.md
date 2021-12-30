@@ -2,6 +2,7 @@
 
 #### Coding Machine
 
+#### [RESUME](https://drive.google.com/file/d/1poCsW1btvFFJmakwRC3xWnNC89ZjIa0B/view)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ELKHAYATE)  
 

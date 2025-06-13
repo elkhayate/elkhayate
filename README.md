@@ -7,7 +7,7 @@ Please note that during my previous roles, I primarily used my employers' GitHub
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elkhayate&theme=tokyonight" alt="mystreak"/>
 
-#### [RESUME]([https://docs.google.com/document/d/1PTQhUxIFse3s-7Bs8PQPNEsIYtmIYTnrbv4bSK4-QDw/edit?usp=sharing](https://docs.google.com/document/d/181VHWZAth8f8YtOsZ9FMZ5pb2169xtwU0PLLMSneKV0))
+#### [RESUME](https://docs.google.com/document/d/181VHWZAth8f8YtOsZ9FMZ5pb2169xtwU0PLLMSneKV0)
 
 
 
